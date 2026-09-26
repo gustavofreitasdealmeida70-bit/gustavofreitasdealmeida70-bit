@@ -1,1 +1,36 @@
----
+name: GitWorld - Update Profile
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  gitworld:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitWorld
+        uses: Dasmat13/git-world-action@main
+        with:
+          github_user_name: gustavofreitasdealmeida70-bit
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/gitworld.svg
+
+      - name: Commit GitWorld
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add dist/gitworld.svg dist/profile-card.svg
+
+          git diff --cached --quiet || git commit -m "Update GitWorld"
+
+          git push
