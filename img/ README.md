@@ -5,6 +5,7 @@
 </div>
 
 <br><br>
+
 ### 👋 Sobre mim
 
 Me chamo Gustavo Freitas, tenho 18 anos e curso Engenharia de Software. Possuo conhecimentos básicos em programação, com experiência em **Python** e **SQL**, e venho ampliando minhas habilidades em **HTML** e **JavaScript**.
@@ -56,6 +57,7 @@ Me chamo Gustavo Freitas, tenho 18 anos e curso Engenharia de Software. Possuo c
     style="padding-right: 10px;"
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=gustavofreitasdealmeida70-bit&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&icon_color=64FFDA&border_color=0A192F&ring_color=64FFDA&custom_title=My%20GitHub%20Statistics"
   />
+  
   <img
       align="left"
       alt="Top Languages"
@@ -65,3 +67,13 @@ Me chamo Gustavo Freitas, tenho 18 anos e curso Engenharia de Software. Possuo c
 </p>
 
 <br clear="both">
+
+<h3 align="center">🌍 My GitWorld</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/gustavofreitasdealmeida70-bit/gustavofreitasdealmeida70-bit/main/dist/gitworld.svg"
+    alt="GitWorld"
+    width="100%"
+  />
+</p>
