@@ -67,3 +67,19 @@ Me chamo Gustavo Freitas, tenho 18 anos e curso Engenharia de Software. Possuo c
 </p>
 
 <br clear="both">
+<h3 align="center">Pac-Man Contributions</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gustavofreitasdealmeida70-bit/gustavofreitasdealmeida70-bit/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gustavofreitasdealmeida70-bit/gustavofreitasdealmeida70-bit/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/gustavofreitasdealmeida70-bit/gustavofreitasdealmeida70-bit/output/pacman-contribution-graph.svg"
+  >
+</picture>
