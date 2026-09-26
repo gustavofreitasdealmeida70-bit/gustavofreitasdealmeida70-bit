@@ -67,13 +67,3 @@ Me chamo Gustavo Freitas, tenho 18 anos e curso Engenharia de Software. Possuo c
 </p>
 
 <br clear="both">
-
-<h3 align="center">🌍 My GitWorld</h3>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/gustavofreitasdealmeida70-bit/gustavofreitasdealmeida70-bit/main/dist/gitworld.svg"
-    alt="GitWorld"
-    width="100%"
-  />
-</p>
