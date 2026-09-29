@@ -50,13 +50,13 @@ Me chamo Gustavo Freitas, tenho 18 anos e curso Engenharia de Software. Possuo c
 ### 📊 GitHub Stats
 
 <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=gustavofreitasdealmeida70-bit&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&icon_color=64FFDA&border_color=0A192F&ring_color=64FFDA&custom_title=My%20GitHub%20Statistics"
-  />
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats-two-omega-43.vercel.app/api?username=gustavofreitasdealmeida70-bit&show_icons=true&locale=pt-br&hide=contribs,commits&cache_seconds=21600&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&icon_color=64FFDA&border_color=0A192F&ring_color=64FFDA&custom_title=My%20GitHub%20Statistics"
+/>
   
   <img
       align="left"
