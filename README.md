@@ -6,7 +6,7 @@
 
 <br><br>
 
-### 👋 Sobre mim
+### 👋 About Me
 
 Me chamo Gustavo Freitas, tenho 18 anos e curso Engenharia de Software. Possuo conhecimentos básicos em programação, com experiência em **Python** e **SQL**, e venho ampliando minhas habilidades em **HTML** e **JavaScript**.
 
